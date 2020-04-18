@@ -1,5 +1,3 @@
-# Welcome to my site
-
 I am an industrial engineer by training and a management consultant by trade. I am passionate about analytics, agriculture, and Japanese cuisine.
 
 I am experienced in digital and analytics-based pricing, marketing and sales, and operations work for chemicals, agriculture, digital media, and semiconductor clients. My work has brought me to locations such as Japan, New Zealand, South Korea, and Singapore, where I have worked on global teams and delivered significant and meaningful client impact.
