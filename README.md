@@ -21,8 +21,8 @@ I have a strong passion for my core fields of industrial engineering and operati
 
 ## Skills
 
-- Languages: Python, R, Git, LaTeX, SQL, LINGO
-- Tools: Tableau, Alteryx, mathematical modeling with Excel
+- **Languages**: Python, R, Git, LaTeX, SQL, LINGO
+- **Tools**: Tableau, Alteryx, mathematical modeling with Excel
 
 ## Knowledge
 
